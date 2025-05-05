@@ -1,4 +1,4 @@
-# 🥗 FlashForge AI – PDF to Flashcards with Groq + LLaMA 4
+# 📝 FlashForge AI – PDF to Flashcards with Groq + LLaMA 4
 
 **FlashForge AI** helps you turn your PDF-based study materials into flashcards using Groq’s LLaMA 4 Scout model. Upload your lecture notes, and it will generate concise Q&A flashcards — ready to study!
 
@@ -23,7 +23,7 @@
 
 2. **Install Dependencies:**
    ```bash
-   pip install streamlit groq pymupdf
+   pip install -r requirements.txt
    ```
 
 3. **Set your API key:**
