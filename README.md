@@ -17,8 +17,8 @@
 
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/hugomilosz/flashforge-ai.git
-   cd flashforge-ai
+   git clone https://github.com/hugomilosz/flashforge.git
+   cd flashforge
    ```
 
 2. **Install Dependencies:**
